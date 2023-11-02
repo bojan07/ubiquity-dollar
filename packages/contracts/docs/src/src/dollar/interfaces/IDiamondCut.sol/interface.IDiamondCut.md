@@ -1,5 +1,5 @@
 # IDiamondCut
-[Git Source](https://github.com/ubiquity/ubiquity-dollar/blob/edf5f533467baa5ab7defe2b4b5180fa47724cdb/src/dollar/interfaces/IDiamondCut.sol)
+[Git Source](https://github.com/ubiquity/ubiquity-dollar/blob/7c3a0bb87e5e9b32000b3291b4e7da4b119ff3fa/src/dollar/interfaces/IDiamondCut.sol)
 
 Interface that allows modifications to diamond function selector mapping
 
